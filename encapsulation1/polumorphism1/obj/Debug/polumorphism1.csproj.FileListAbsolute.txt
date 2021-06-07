@@ -1,0 +1,7 @@
+C:\Users\moham\source\repos\encapsulation1\polumorphism1\bin\Debug\polumorphism1.exe.config
+C:\Users\moham\source\repos\encapsulation1\polumorphism1\bin\Debug\polumorphism1.exe
+C:\Users\moham\source\repos\encapsulation1\polumorphism1\bin\Debug\polumorphism1.pdb
+C:\Users\moham\source\repos\encapsulation1\polumorphism1\obj\Debug\polumorphism1.csprojAssemblyReference.cache
+C:\Users\moham\source\repos\encapsulation1\polumorphism1\obj\Debug\polumorphism1.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\encapsulation1\polumorphism1\obj\Debug\polumorphism1.exe
+C:\Users\moham\source\repos\encapsulation1\polumorphism1\obj\Debug\polumorphism1.pdb
